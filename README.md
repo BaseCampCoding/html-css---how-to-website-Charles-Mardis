@@ -1,6 +1,6 @@
 # How To Website
 
-In this assignment you will create a page page to teach people how to do something that you know how to do.
+In this assignment you will create a page to teach people how to do something that you know how to do.
 
 ## Additional Requirements
 
